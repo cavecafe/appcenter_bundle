@@ -1,7 +1,15 @@
 name: appcenter_bundle
-description: This plugin currently bundles AppCenter Analytics, Crashes and Distribute. To learn more about AppCenter, go to https://aka.ms/appcenterdocs
-version: 1.0.1
+description: >-
+This plugin bundles AppCenter Analytics, Crashes and Distribute, 
+from the original 'flutter_appcenter_bundle', added fixes of the following
+
+    1. Update to avoid null safety check compiler errors in later version of dart compilers
+    2. Update to Kotlin Plugin version to the later version of 2022 and later
+
+To learn more about AppCenter, go to https://aka.ms/appcenterdocs
+version: 1.0.2
 homepage: https://github.com/cavecafe/appcenter_bundle
+issue_tracker: https://github.com/cavecafe/appcenter_bundle/issues
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
