@@ -7,7 +7,7 @@ from the original 'flutter_appcenter_bundle', added fixes of the following
     2. Update to Kotlin Plugin version to the later version of 2022 and later
 
 To learn more about AppCenter, go to https://aka.ms/appcenterdocs
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/cavecafe/appcenter_bundle
 issue_tracker: https://github.com/cavecafe/appcenter_bundle/issues
 
