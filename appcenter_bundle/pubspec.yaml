@@ -10,7 +10,8 @@ To learn more about AppCenter, go to https://aka.ms/appcenterdocs
 version: 1.0.3
 homepage: https://github.com/cavecafe/appcenter_bundle
 issue_tracker: https://github.com/cavecafe/appcenter_bundle/issues
-
+publish_to: https://pub.dev
+repository: https://github.com/cavecafe/appcenter_bundle.git
 environment:
   sdk: ">=2.12.0 <3.22.1"
   flutter: ">=1.10.0"
